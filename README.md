@@ -1,5 +1,8 @@
 # Epidemic Watch Dashboard
 
+![Epidemic Watch Dashboard](Dashboard.png)
+*Conceptual user interface mockup showing how epidemiological data from multiple public health organizations could be combined into a single situational awareness dashboard.*
+
 Building AI course final project
 
 ## Summary
